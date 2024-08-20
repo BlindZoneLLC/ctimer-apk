@@ -22,7 +22,7 @@ Timer, Stopwatch is ideal for the following occasions:
 - Laboratory research. Reaction times are often key in chemical and physical tests. The CTimer app will accurately determine the duration of the process.
   
 ## Compatibility
-Latest version supports Android 8.0+ (Android APi 26+) and legacy version for Android 5.0+ (Android API 21+). All architectures.
+Latest version supports Android 8.0+ (Android APi 26+) id 5.0+. All architectures.
 
 ## Feedback 
 * Bug reports can be submitted [here](https://github.com/BlindZoneLLC/ctimer-apk/issues).
